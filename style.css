@@ -16,7 +16,7 @@ header {
     background-color: #36bbce;
     color: rgb(0, 0, 0);
     text-decoration: none;
-    padding: 15px;
+    padding: 10px;
     font-size: 24px;
     border-radius: 10px;
 }
@@ -32,9 +32,7 @@ nav {
 .nav-link {
     font-size: 24px;
     color: white;
-    text-decoration: none;
-    
-   
+    text-decoration: none;  
 
 }
 
@@ -71,11 +69,12 @@ article {
 .article-but {
     text-decoration: none;
     background-color: grey;
+    border-radius: 10px;
     color: black;
     font-size: 24px;
     text-align: center;
     padding: 10px 45px 10px 45px;
-    margin: 10px;
+    margin: 30px;
 }
 
 footer {
